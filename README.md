@@ -1,7 +1,6 @@
-```markdown
 # 🤖 ChatGPT Excel Automation (Agent Mode)
 
-A fully automated **Python + Playwright** workflow that connects to a running Chrome session and controls **ChatGPT's Agent Mode** to upload Excel files, issue prompts, and automatically download the AI-generated results — all without any manual clicks.
+A fully automated **Python + Playwright** workflow that connects to a running Chrome session and controls **ChatGPT’s Agent Mode** to upload Excel files, issue prompts, and automatically download the AI-generated results — all without any manual clicks.
 
 ---
 
@@ -12,8 +11,8 @@ A fully automated **Python + Playwright** workflow that connects to a running Ch
 
 ## 🚀 Overview
 
-This script enables **programmatic control of ChatGPT through Chrome's DevTools Protocol (CDP)**.  
-It simulates a complete human interaction flow with ChatGPT's **Agent Mode**, including:
+This script enables **programmatic control of ChatGPT through Chrome’s DevTools Protocol (CDP)**.  
+It simulates a complete human interaction flow with ChatGPT’s **Agent Mode**, including:
 
 1. Connecting to an existing Chrome session  
 2. Finding an open ChatGPT tab  
@@ -39,14 +38,13 @@ It is designed for **reliability, transparency, and async performance**, with fa
 
 ---
 
-## 🧑💻 Requirements
+## 🧑‍💻 Requirements
 
 ### 1. Install Dependencies
 
 ```bash
 pip install playwright asyncio
 playwright install chromium
-```
 
 ### 2. Start Chrome with Remote Debugging
 
