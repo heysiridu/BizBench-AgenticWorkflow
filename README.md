@@ -41,13 +41,12 @@ It is designed for **reliability, transparency, and async performance**, with fa
 ## 🧑‍💻 Requirements
 
 ### 1. Install Dependencies
-
 ```bash
 pip install playwright asyncio
 playwright install chromium
+```
 
 ### 2. Start Chrome with Remote Debugging
-
 ```bash
 /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --remote-debugging-port=9222
 ```
@@ -57,7 +56,6 @@ Keep this Chrome window open and make sure ChatGPT (chat.openai.com or chatgpt.c
 ### 3. Run the Script
 
 Place your Excel file in the same directory as the script (e.g., `test.xlsx`), then run:
-
 ```bash
 python automate_chatgpt_excel.py
 ```
