@@ -5,7 +5,7 @@ A fully automated **Python + Playwright** workflow that connects to a running Ch
 ---
 
 ## 🎥 Live Demo
-*(Insert your demo video link or thumbnail here)*
+https://github.com/user-attachments/assets/f73604ae-856f-4df4-8071-65db8bbbbb62
 
 ---
 
