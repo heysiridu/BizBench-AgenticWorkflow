@@ -40,3 +40,10 @@ It is designed for **reliability, transparency, and async performance**, using r
 ```bash
 pip install playwright asyncio
 playwright install chromium
+
+### 2. Launch Chrome with Debugging Port
+```bash
+/Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --remote-debugging-port=9222
+
+
+
